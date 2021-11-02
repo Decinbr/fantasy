@@ -1,0 +1,25 @@
+Hyper Blast
+
+Created by: KV_Kingdom
+
+Tools used:
+
+- MacBook Pro
+- Effekseer
+- Apple Logic
+- Audacity
+- Gimp
+
+"477206__mattiagiovanetti__some-laser-gun-shots-i.wav"
+Author: MattiaGiovanetti
+Source: https://freesound.org/people/MattiaGiovanetti/sounds/477206/
+
+"Star.png"
+Author: Pierre
+Source: https://effekseer.github.io/en/contributes/Pierre01/index.html
+
+Other audio effects were created using instrument samples that come with Logic.
+
+I made "MyStar.png" in GIMP.
+
+Other images are from the sample pack that comes with Effekseer.

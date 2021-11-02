@@ -1,0 +1,14 @@
+Credits
+-starburst.efkefc - Made by ShadowHawkDragon
+-particles - Made by ShadowHawkDragon
+-particles-samples - Particles provided with Effekseer sample projects (CC-0)
+
+
+Sound - obtained from https://www.zapsplat.com
+These resources are under their royalty free 'standard license' 
+-https://www.zapsplat.com/license-type/standard-license/
+
+Invidual links for sound files:
+- https://www.zapsplat.com/music/magical-and-musical-glissando-version-2/
+- https://www.zapsplat.com/music/magical-glissando-chime-ascending-bell-tree-style-very-high-pitched-version-good-for-fairy-2/
+- https://www.zapsplat.com/music/magic-wand-ping-chime-fairy-godmother-8/
